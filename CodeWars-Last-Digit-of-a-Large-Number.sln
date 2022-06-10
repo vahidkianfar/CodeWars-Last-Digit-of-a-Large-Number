@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars-Last-Digit-of-a-Large-Number", "CodeWars-Last-Digit-of-a-Large-Number\CodeWars-Last-Digit-of-a-Large-Number.csproj", "{FA8259D9-0053-4B20-A7B7-CD642E4386DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastDigitTests", "LastDigitTests\LastDigitTests.csproj", "{8870FD31-DDD4-494E-A0AA-D4CFB316102D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8259D9-0053-4B20-A7B7-CD642E4386DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8259D9-0053-4B20-A7B7-CD642E4386DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8259D9-0053-4B20-A7B7-CD642E4386DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8259D9-0053-4B20-A7B7-CD642E4386DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8870FD31-DDD4-494E-A0AA-D4CFB316102D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8870FD31-DDD4-494E-A0AA-D4CFB316102D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8870FD31-DDD4-494E-A0AA-D4CFB316102D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8870FD31-DDD4-494E-A0AA-D4CFB316102D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
